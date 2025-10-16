@@ -1,4 +1,5 @@
-## Flood Prediction using Machine Learning
+## Rising-Waters-Predicting-Floods-Using-Machine-Learning
+
 # Overview
 
 This project focuses on predicting the likelihood of floods based on environmental and climatic factors such as temperature, humidity, and annual rainfall. Using machine learning algorithms, it analyzes historical data to build a predictive model that can help forecast flood risks effectively.
